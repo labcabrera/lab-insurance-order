@@ -1,0 +1,7 @@
+= Order module - Open Asset Management System
+
+:linkLabInsurance: https://github.com/labcabrera/lab-insurance
+
+== Introducción
+
+Módulo de órdenes de compra venta del proyecto {linkLabInsurance}[lab-insurance] project.

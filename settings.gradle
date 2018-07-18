@@ -1,0 +1,3 @@
+include ":lab-insurance-order-common",
+        ":lab-insurance-order-core",
+        ":lab-insurance-order-api"
